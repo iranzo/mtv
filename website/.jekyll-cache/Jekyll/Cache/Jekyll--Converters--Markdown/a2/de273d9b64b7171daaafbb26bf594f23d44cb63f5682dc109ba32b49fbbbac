@@ -1,0 +1,247 @@
+I"<h2 id="installer-provisioned-infrastructure-ipi-of-openshift-on-baremetal-install-guides">Installer Provisioned Infrastructure (IPI) of OpenShift on Baremetal Install Guides</h2>
+
+<h3 id="documentation">Documentation</h3>
+
+<p>Below is the list of generated documentation versions</p>
+
+<table style="width:100%">
+  <tr>
+    <th>Document</th>
+    <th>Access</th>
+  </tr>
+
+
+
+  <tr>
+
+    
+    
+      
+      
+        <td>Deployment</td>
+        <td>
+          <div class="menu-wrap">
+            <nav class="menu">
+              <ul class="clearfix">
+                <li>
+                  <a href="#">Format/Release <span class="arrow">&#9660;</span></a>
+                  <ul class="sub-menu">
+      
+      
+                    <li>
+                      <a href="4.4/Deployment.html"><i class="fab fa-html5"></i> HTML 4.4</a> </li><li> <a href="4.4/Deployment.pdf"><i class="fas fa-file-pdf"></i> PDF 4.4</a>
+                    </li>
+      
+    
+      
+      
+      
+    
+      
+      
+      
+                    <li>
+                      <a href="4.3/Deployment.html"><i class="fab fa-html5"></i> HTML 4.3</a> </li><li> <a href="4.3/Deployment.pdf"><i class="fas fa-file-pdf"></i> PDF 4.3</a>
+                    </li>
+      
+    
+      
+      
+      
+    
+                  </ul>
+              </li>
+              </ul>
+            </nav>
+          </div>
+        </td>
+
+  </tr>
+  
+
+  <tr>
+
+    
+    
+      
+      
+        <td>Troubleshooting</td>
+        <td>
+          <div class="menu-wrap">
+            <nav class="menu">
+              <ul class="clearfix">
+                <li>
+                  <a href="#">Format/Release <span class="arrow">&#9660;</span></a>
+                  <ul class="sub-menu">
+      
+      
+    
+      
+      
+      
+                    <li>
+                      <a href="4.4/Troubleshooting.html"><i class="fab fa-html5"></i> HTML 4.4</a> </li><li> <a href="4.4/Troubleshooting.pdf"><i class="fas fa-file-pdf"></i> PDF 4.4</a>
+                    </li>
+      
+    
+      
+      
+      
+    
+      
+      
+      
+                    <li>
+                      <a href="4.3/Troubleshooting.html"><i class="fab fa-html5"></i> HTML 4.3</a> </li><li> <a href="4.3/Troubleshooting.pdf"><i class="fas fa-file-pdf"></i> PDF 4.3</a>
+                    </li>
+      
+    
+                  </ul>
+              </li>
+              </ul>
+            </nav>
+          </div>
+        </td>
+
+  </tr>
+  
+
+
+
+  <tr>
+
+    
+    
+      
+      
+        <td>Ansible Playbook Install</td>
+        <td>
+          <div class="menu-wrap">
+            <nav class="menu">
+              <ul class="clearfix">
+                <li>
+                  <a href="#">Format <span class="arrow">&#9660;</span></a>
+                  <ul class="sub-menu">
+      
+      
+                    <li>
+                      <a href="latest/Ansible Playbook Install.html"><i class="fab fa-html5"></i> HTML</a> </li><li> <a href="latest/Ansible Playbook Install.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+                    </li>
+      
+    
+      
+      
+      
+    
+                  </ul>
+              </li>
+              </ul>
+            </nav>
+          </div>
+        </td>
+
+  </tr>
+  
+
+  <tr>
+
+    
+    
+      
+      
+        <td>Ansible Playbook Disconnected Install</td>
+        <td>
+          <div class="menu-wrap">
+            <nav class="menu">
+              <ul class="clearfix">
+                <li>
+                  <a href="#">Format <span class="arrow">&#9660;</span></a>
+                  <ul class="sub-menu">
+      
+      
+    
+      
+      
+      
+                    <li>
+                      <a href="latest/Ansible Playbook Disconnected Install.html"><i class="fab fa-html5"></i> HTML</a> </li><li> <a href="latest/Ansible Playbook Disconnected Install.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+                    </li>
+      
+    
+                  </ul>
+              </li>
+              </ul>
+            </nav>
+          </div>
+        </td>
+
+  </tr>
+  
+
+</table>
+
+<div class="premonition info">
+  <i class="premonition pn-info"></i>
+  <div class="content">
+    <p>These guides are created from the contents of the repository under <a href="https://github.com/openshift-kni/baremetal-deploy/tree/master/documentation"><code class="language-plaintext highlighter-rouge">documentation/</code></a> folder.</p>
+
+
+
+
+  </div>
+</div>
+
+<h3 id="development-draft">Development Draft</h3>
+
+<table style="width:100%">
+  <tr>
+    <th>Document</th>
+    <th>Access</th>
+  </tr>
+
+
+
+  <tr>
+
+    
+    
+      
+      
+        <td>Deployment</td>
+        <td>
+          <div class="menu-wrap">
+            <nav class="menu">
+              <ul class="clearfix">
+                <li>
+                  <a href="#">Format <span class="arrow">&#9660;</span></a>
+                  <ul class="sub-menu">
+      
+      
+                    <li>
+                      <a href="4.5/Deployment.html"><i class="fab fa-html5"></i> HTML</a> </li><li> <a href="4.5/Deployment.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+                    </li>
+      
+    
+                  </ul>
+              </li>
+              </ul>
+            </nav>
+          </div>
+        </td>
+
+  </tr>
+  
+
+</table>
+
+<div class="premonition error">
+  <i class="premonition pn-error"></i>
+  <div class="content">
+    <p>Documents in this section are incomplete drafts and may contain inaccuracies</p>
+
+
+
+
+  </div>
+</div>
+:ET
