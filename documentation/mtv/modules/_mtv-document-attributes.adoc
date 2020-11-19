@@ -1,0 +1,14 @@
+:icons:
+:experimental:
+:toc: macro
+:toc-title:
+:imagesdir: images
+:kebab: Options menu image:kebab.png[title="Options menu"]
+:prewrap!:
+:mtv-short: MTV
+:mtv-full: Migration Toolkit for Virtualization
+:mtv-first: {mtv-full} ({mtv-short})
+:mtv-version: 2.0
+:virt: OpenShift Virtualization
+:ocp: OpenShift Container Platform
+:ocp-version: 4.6
